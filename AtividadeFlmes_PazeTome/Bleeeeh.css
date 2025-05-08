@@ -1,0 +1,114 @@
+body { 
+
+    background-color: paleturquoise;
+    padding: 0%;
+    margin: 0%;
+}
+
+.Topocodigo{
+    display: inline-block;
+    background-color: #a3c8f0;
+    width: 100%;
+    height: 100px;
+    text-align: right;
+}
+
+.Topocodigo img{
+    display: inline-block;
+    background-color: #a3c8f0;
+    width: 100px;
+    height: 100px;
+}
+
+.Topocodigo p{
+
+    display: inline-block;
+
+}
+
+.Filmes{
+
+    background-color: #a3c8f0;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+
+}
+
+.Filmes h1{
+
+        font-size: 40px;
+        font-family: sans-serif;
+
+}
+.filmesSerio{
+
+    text-align: center;
+    margin-top: 10px;
+}
+.filmesSerio img{
+    height: 360px;
+    width: 400px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10%;
+    border: black 2px solid;
+    transition: 0.5s;
+}
+
+.filmesSerio img:hover{
+
+    transform: scale(1.2);
+    
+
+
+}
+
+.seriesserias img:hover{
+    border: palegreen 10px solid;
+
+
+}
+
+.Série{
+
+    background-color: #a3c8f0;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+
+}
+
+.Série h1{
+
+        font-size: 40px;
+        font-family: sans-serif;
+}
+
+.seriesserias{
+
+    text-align: center;
+    margin-top: 10px;
+}
+.seriesserias img{
+    height: 360px;
+    width: 400px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10%;
+    border: black 2px solid;
+    transition: 0.5s;
+}
+/* .haha{
+
+    background-color: aquamarine;
+    width: 500px;
+    height: 500px;
+}
+
+.haha:hover{
+
+    background-color: pink;
+    border-radius: 100%;
+
+} */
